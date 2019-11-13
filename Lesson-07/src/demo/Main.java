@@ -31,17 +31,6 @@ public class Main {
 		
 			
 			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
 			/*
 			 * 
 			 * 
@@ -59,8 +48,7 @@ public class Main {
 		System.out.println(str.charAt(4));
 			
 			 
-			 
-			 
+			 //cope one array to another
 			 int [] nums = {22,44,67,100,75};
 			int [] arr = new int [2];
 			arr = new int [nums.length];
@@ -70,8 +58,9 @@ public class Main {
 			}
 			 
 			 
-			 
-			 int [] arr = new int [2];
+			//array length change
+
+			int [] arr = new int [2];
 			arr[0] = 1;
 			int [] arr2 = arr;
 			
@@ -80,7 +69,7 @@ public class Main {
 			 
 			 
 			 
-			 
+			 //do while example with menu
 			 int i  ;
 			
 			do {
@@ -112,20 +101,14 @@ public class Main {
 				
 			}while(!(i == 3)); 
 			
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
+	
 			 
 			 
 			 
 			 * 
 			 * 
 			 * 
+			//casting form double to int
 			double pi = 3.14;
 			int x = (int)pi;
 			int y = (int)(pi*10)%30;//31.4%30/1.4
