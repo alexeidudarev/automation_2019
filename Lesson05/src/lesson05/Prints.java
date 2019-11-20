@@ -9,7 +9,6 @@ public class Prints {
 	}
 	public static void printMax(int[] arr) {
 		int max= 0;
-		
 		int min = arr[0];
 		for(int x = 0;x < arr.length;x++) {
 			if (arr[x]>max) {
