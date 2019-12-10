@@ -1,4 +1,4 @@
-package lesson10home;
+package test;
 
 public class Man {
 	String name;

@@ -1,4 +1,4 @@
-package lesson10home;
+package test;
 
 public class Person extends Man {
 	public String date;
