@@ -11,7 +11,7 @@ public class Main {
 		//targil 3.2
 		Person p2= new Person("11/11/1944","David");
 		//targil 3.3
-		Person p3= new Person("11/11/1944","Daniel","Momo","Sara");
+		Person p3= new Person("11/11/1944","Danniel","Momo","Sara");
 		//targil3/4
 		//creating array and adding Person objects
 		Person [] persons = new Person[3];
