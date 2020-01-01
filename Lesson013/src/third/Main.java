@@ -14,10 +14,6 @@ public class Main implements Printable,Urls {
 		
 	}
 
-	@Override
-	public int getAge() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
+	
 	
 }

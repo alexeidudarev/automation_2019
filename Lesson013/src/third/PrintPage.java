@@ -9,10 +9,5 @@ public class PrintPage implements Printable {
 		
 	}
 
-	@Override
-	public int getAge() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
 
 }
