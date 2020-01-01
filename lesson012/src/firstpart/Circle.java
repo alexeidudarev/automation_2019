@@ -31,7 +31,7 @@ public class Circle extends Shape {
 		this.y = c.y;
 		this.radius = c.radius;
 	}
-	public double getArea() {
+	public  double getArea() {
 		return -1;
 	}
 	
